@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2020-02-05T14:45:27+05:30
 title = "How to Hugo"
 description = ""
