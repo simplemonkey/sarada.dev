@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://frosty-mirzakhani-3553d6.netlify.com/"
 title = "sarada"
 
 theme = "hugo-coder"
@@ -65,16 +65,11 @@ pygmentscodefencesguesssyntax = true
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 2
-    url = "https://www.linkedin.com/in/sarada_g/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 3
-    url = "https://medium.com/@johndoe"
+    url = "https://www.linkedin.com/in/sarada-g/"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
-    weight = 4
+    weight = 3
     url = "https://myhugosite.com/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
